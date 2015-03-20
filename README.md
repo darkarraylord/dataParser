@@ -8,13 +8,13 @@ It intends to parse all ordered Excel data and help the user to create a pattern
   2.1 - Allow the application to act as a email client (PHPMail) and extract message contents
 
 ##ROADMAP:
-#COMPLETE:
+###COMPLETE:
 1 - Iterate thru directories
 
-#WIP
+###WIP
 2 - Integrated function to write insert query
 
-# TO BE DEVELOPED
+### TO BE DEVELOPED
 3 - Allow user to create input templates for files.
 	3.1 - Create interface to chose the Root Directory
 	3.2 - List files on the interface
